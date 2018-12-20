@@ -1,0 +1,3 @@
+CrimeDate,CrimeTime,CrimeCode,Location,Description,Inside/Outside,Weapon,Post,District,Neighborhood,Longitude,Latitude,Location 1,Premise,Total Incidents
+"04/28/2018,23:22:00,4E,900 N BROADWAY,COMMON ASSAULT,,OTHER,313,EASTERN,Gay Street,-76.59457,39.30056,""(39.300560000000, -76.594570000000)"",,1"
+"04/28/2018,23:10:00,7A,3300 REISTERSTOWN RD,AUTO THEFT,O,,611,NORTHWESTERN,Liberty Square,-76.6571,39.3245,""(39.324500000000, -76.657100000000)"",STREET,1"
